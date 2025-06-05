@@ -32,3 +32,31 @@ section#telefone{
     background: url('./imagens/fundo-iphoneborda.png');
     background-repeat: no repeat;
 }
+
+iframe#tela{
+    position: relative;
+    top: 12.3%;
+    left: 24.1%;
+    border-radius: 38px;
+    width: 241px;
+    height: 531.2px;
+}
+
+section#icones {
+    background-color: rgba(0, 0, 0, 0.616);
+    border-radius: 30px;
+    position: relative;
+    text-align: center;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 230px;
+    padding: 5px 0px;
+    margin: 0px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.726);
+}
+
+section#icones a:hover{
+    padding: 2px;
+    transition: 0.15s;
+}
