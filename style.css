@@ -47,16 +47,15 @@ section#icones {
     border-radius: 30px;
     position: absolute;
     text-align: center;
-    top: 15%;
+    top: 23.5%;
     left:50%;
     transform: translate(-50%, -50%);
-    width: 230px;
-    padding: 5px 0px;
-    margin: 0px;
+    width: 210px;
+    padding: 3.5px 0px 0px 3.5px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.726);
 }
 
 section#icones a:hover{
     padding: 2px;
-    transition: 0.15s;
+    transition: 0.17s;
 }
