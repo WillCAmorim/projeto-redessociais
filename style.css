@@ -45,11 +45,11 @@ iframe#tela{
 section#icones {
     background-color: rgba(0, 0, 0, 0.616);
     border-radius: 30px;
-    position: relative;
+    position: absolute;
     text-align: center;
-    top: 75%;
-    left: 50%;
-    transform: translate(-50%);
+    top: 15%;
+    left:50%;
+    transform: translate(-50%, -50%);
     width: 230px;
     padding: 5px 0px;
     margin: 0px;
